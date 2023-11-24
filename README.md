@@ -1,3 +1,1 @@
-# lisandrojm.code-profile
-
-https://vscodium.com/
+# default.code-profile
